@@ -2,7 +2,6 @@
 ### GithubPaint
 
 >"*By the time you finish an application, you’re ready to rewrite it from scratch because now you understand many aspects of the problem much better. You have also grown professionally, and your own code now looks like crap*." 
-: Shashwat in 2021.
 
 week summary: 
 <!--START_SECTION:waka-->
