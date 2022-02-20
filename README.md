@@ -10,8 +10,6 @@ You can leave a PR on this repo to start a conversation 🌝.
 week summary: 
 <!--START_SECTION:waka-->
 ```text
-Total: 50 hrs 19 mins
-
 TypeScript   25 hrs 7 mins   ████████████▒░░░░░░░░░░░░   49.04 % 
 JavaScript   16 hrs 24 mins  ████████░░░░░░░░░░░░░░░░░   32.02 % 
 C++          3 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
