@@ -11,8 +11,12 @@ week summary:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 mins          ███████████████████▓░░░░░   78.90 %
-Svelte       2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
+TypeScript   2 hrs 21 mins   ████████████▓░░░░░░░░░░░░   50.25 %
+JavaScript   2 hrs 3 mins    ███████████░░░░░░░░░░░░░░   43.87 %
+JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Svelte       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
