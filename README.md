@@ -11,8 +11,7 @@ week summary:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   58 mins         █████████████▓░░░░░░░░░░░   54.06 %
-TypeScript   49 mins         ███████████▒░░░░░░░░░░░░░   45.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
