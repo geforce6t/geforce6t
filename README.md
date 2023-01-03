@@ -11,9 +11,7 @@ week summary:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   56 mins         ████████████████░░░░░░░░░   63.65 %
-TypeScript   31 mins         █████████░░░░░░░░░░░░░░░░   36.26 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript   23 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
