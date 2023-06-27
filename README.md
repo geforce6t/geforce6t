@@ -1,12 +1,3 @@
-
-### GithubPaint
-
->"*ermmm*." 
-
-Hello, Shashwat here.
-
-You can leave a PR on this repo to start a conversation 🌝.
-
 week summary: 
 <!--START_SECTION:waka-->
 
@@ -19,6 +10,9 @@ Python       31 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+> buri buri 
    
 	                            
 			       :.                                             -.                  
