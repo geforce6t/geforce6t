@@ -2,11 +2,11 @@ week summary:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   25 hrs 34 mins  ██████████████▓░░░░░░░░░░   58.42 %
-JavaScript   10 hrs 28 mins  ██████░░░░░░░░░░░░░░░░░░░   23.93 %
-SCSS         3 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-Bash         1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-CSS          1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+TypeScript   26 hrs 41 mins  ███████████████░░░░░░░░░░   60.57 %
+JavaScript   10 hrs 55 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
+SCSS         3 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Bash         1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+CSS          59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
