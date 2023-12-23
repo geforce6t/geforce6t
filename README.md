@@ -2,11 +2,11 @@ week summary:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 17 mins   ███████████████▓░░░░░░░░░   62.33 %
-JavaScript   4 hrs 22 mins   ████████▒░░░░░░░░░░░░░░░░   32.86 %
-JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-TSConfig     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+TypeScript   7 hrs 22 mins   ████████████████▒░░░░░░░░   64.95 %
+JavaScript   3 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.42 %
+JSON         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+TSConfig     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
